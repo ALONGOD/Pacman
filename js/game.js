@@ -1,8 +1,5 @@
 'use strict'
 
-
-
-
 const WALL = '&#8251;'
 const FOOD = '&middot;'
 const EMPTY = ' '
