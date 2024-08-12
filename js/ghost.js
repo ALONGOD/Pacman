@@ -1,6 +1,5 @@
 'use strict'
 
-
 const GHOST = '&#9781'
 var gGhosts = []
 var gDeadGhosts = []
